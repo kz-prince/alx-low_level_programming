@@ -2,10 +2,11 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main entry - point
+ * main - check status of random number
  * Description: prints if a number is positive, negative or 0
  * Return: 0 (success)
  */
+/* betty style doc for function main goes there */
 int main(void)
 {
 	int n;
