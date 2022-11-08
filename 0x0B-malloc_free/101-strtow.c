@@ -1,6 +1,6 @@
 /*
  * File: 101-strtow.c
- * Auth: sam t/*
+ * Auth: sam t
  * File: 101-strtow.c
  * Auth: sam tech
  */
